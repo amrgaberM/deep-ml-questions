@@ -22,16 +22,16 @@ Each script includes the **problem statement**, **step-by-step reasoning (in com
 - **Q14_inverse_2x2_matrix.py** → Calculate the inverse of a 2×2 matrix.  
 - **Q15_matrix_multiplication.py** → Multiply two matrices.  
 - **Q16_rref_function.py** → Implement Reduced Row Echelon Form (RREF).  
-- **Q17_translation_matrix_2d.py** → Implement a 2D Translation Matrix.  
 
 ---
 
 ##  Eigenvalues and Eigenvectors
-- **Q18_eigenvalues_matrix.py** → Calculate eigenvalues of a matrix.  
-- **Q19_jacobi_linear_solver.py** → Solve linear equations using the Jacobi iterative method.  
-- **Q20_gauss_seidel_solver.py** → Solve linear systems using the Gauss-Seidel iterative method.  
-- **Q21_pca_implementation.py** → Implement Principal Component Analysis (PCA) from scratch.  
-- **Q22_svd_2x2_matrix.py** → Perform Singular Value Decomposition (SVD) of a 2×2 matrix using eigenvalues and eigenvectors.  
+- **Q17_eigenvalues_matrix.py** → Calculate eigenvalues of a matrix.  
+- **Q18_jacobi_linear_solver.py** → Solve linear equations using the Jacobi iterative method.  
+- **Q19_pca_implementation.py** → Implement Principal Component Analysis (PCA) from scratch.  
+- **Q20_svd_2x2_matrix.py** → Perform Singular Value Decomposition (SVD) of a 2×2 matrix using eigenvalues and eigenvectors.  
+- **Q21_translation_matrix_2d.py** → Implement a 2D Translation Matrix.  
+- **Q22_gauss_seidel_solver.py** → Solve linear systems using the Gauss-Seidel iterative method.  
 - **Q23_svd_general.py** → Implement Singular Value Decomposition (SVD) for general matrices.  
 - **Q24_determinant_4x4_laplace.py** → Calculate determinant of a 4×4 matrix using Laplace’s expansion.  
 
