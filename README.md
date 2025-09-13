@@ -1,7 +1,7 @@
 # Deep-ML Questions Solutions
 
 This repository contains my solutions to practice questions from [Deep-ML](https://deep-ml.com/) and related resources.  
-Each solution is in a Jupyter Notebook with both **code** and **explanations**.
+Each solution is in a .py file with both **code** and **explanations**.
 
 ---
 
